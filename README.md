@@ -100,7 +100,7 @@ These simulations were created as part of **Digital Electronics and Embedded Sys
 Computer Engineering & Embedded Systems
 Full Stack Developer | AI | IoT | Cybersecurity
 
-GitHub: https://github.com/hlnajz
+GitHub: https://github.com/najzdev
 
 ---
 
