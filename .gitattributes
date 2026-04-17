@@ -1,0 +1,3 @@
+# Map Proteus project files or Hex files to Assembly
+*.pdsprj linguist-language=VHDL
+*.hex linguist-language=Assembly
